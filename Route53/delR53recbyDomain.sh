@@ -1,5 +1,5 @@
 #!/bin/bash
-#syntax " bash filename.sh hostedzone subdomain.domain.com."
+#syntax "bash filename.sh hostedzone subdomain.domain.com."
 #make sure  2nd arg ends with dot
 clear
 touch t1
